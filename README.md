@@ -1,5 +1,7 @@
 # flume-gzip-serializer
 
+[![Build Status](https://travis-ci.org/unruly/flume-gzip-serializer.svg?branch=master)](https://travis-ci.org/unruly/flume-gzip-serializer)
+
 A custom serializer to gzip files before sending to an HDFS sink.
 
 ## Motivation
